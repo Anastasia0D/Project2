@@ -1,0 +1,10 @@
+# Игнорирование папки tmp
+tmp/
+
+# Игнорирование файлов заканчивающихся суффиксами _old и _backup
+*_old
+*_backup
+
+# Игнорирование файлов Thumbs.db и .DS_Store
+Thumbs.db
+.DS_Store 
